@@ -1,0 +1,14 @@
+3 7
+first_element_location length:3 target:3 result:0
+1 address length limit
+4 target address:first_element_location 24
+1 address one address
+5 address limit 11
+9
+7 one result
+9
+limit:0
+one:1
+first_element_location:1 2 3 
+
+
