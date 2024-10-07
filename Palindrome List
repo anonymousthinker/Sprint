@@ -1,0 +1,24 @@
+3 6 first_element_location:begin length:4 
+result:0
+5 length two 49
+7 first_element_location first
+1 first length last
+2 last one last
+7 first numf
+7 last numL
+4 numf:0 numL:0 35 
+7 one result
+halt:9
+1 first one first
+2 last one last
+5 last first 49
+3 21
+7 two result
+9
+first:0
+last:0
+one:1
+two:2
+begin:1 2 3 2
+
+/*The given program checks if a given list is a palindrome or not*/
