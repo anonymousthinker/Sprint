@@ -1,0 +1,29 @@
+3 7
+seq_location:begin
+seq_length:5
+cycle_location:cycle_here
+cycle_length:12
+
+1 cycle_location cycle_length limit
+1 seq_location seq_length seqlimit
+7 seq_location start
+7 cycle_location location
+
+7 start:0 location:0
+1 start one start
+5 start seqlimit 35
+7 seq_location start
+1 location one location
+5 location limit 21
+9
+
+
+seqlimit:0
+limit:0
+one:1
+
+begin:1 2 3 4 5
+cycle_here:
+
+
+/*This program prints the elements of a list a given number of times in a cyclic manner*/
