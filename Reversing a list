@@ -1,0 +1,31 @@
+3 5 first_element_location:start length:5
+7 first_element_location F
+1 first_element_location one PF
+2 length one main_count
+7 main_count count
+5 count one 58
+7 F temp
+7 F num1
+7 PF temp2
+7 PF num2
+7 temp:0 t
+7 temp2:0 num1:0
+7 t num2:0
+1 F one F
+1 PF one PF
+2 count one count
+3 19
+2 main_count one main_count
+5 main_count one 75
+7 first_element_location F
+1 first_element_location one PF
+3 16
+ 9
+
+F:0
+PF:0
+one:1
+main_count:0
+count:0
+t:0  
+start:1 2 3 4 5
